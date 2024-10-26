@@ -1,0 +1,26 @@
+.navbar {
+    height: 5rem;
+    background-color:white;
+   z-index: 1000;
+   
+}
+
+.logo {
+    height: 3rem; 
+    width: auto;
+}
+
+
+@media (max-width: 768px) {
+
+    .logo {
+        margin-top: 1px;
+        height: 3rem;
+        width: auto; 
+    }
+
+    .aria{
+        margin-top: 1px;
+    }
+
+}

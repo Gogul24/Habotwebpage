@@ -1,0 +1,14 @@
+#root{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Navbar{
+    width: 100%;
+    z-index: 1000;
+    position: fixed;
+    margin-top: -49px;
+}
+
+.Herosection{
+    margin-top: 3rem;
+}

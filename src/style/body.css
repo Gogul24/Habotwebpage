@@ -1,0 +1,21 @@
+.col-6{
+    border: 1.6px solid salmon;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    width: 15rem;
+  }
+
+  .col-md-6{
+    margin-left: 6.5rem;
+  }
+
+  
+@media (max-width: 768px) {
+    
+    .col-md-6{
+        margin-top: 2rem;
+        margin-left: 1rem;
+      }
+
+}

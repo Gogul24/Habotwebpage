@@ -1,0 +1,120 @@
+.containerY{
+    background-color: #0a2647;
+    min-height: 50vh;
+    margin-left: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    max-width:81rem;
+    border-radius: 10px;
+}
+
+.content {
+    background-color:#0a2647;
+    border-radius: 8px;
+    padding: 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    max-width: 1000px;
+    width: 100%;
+  }
+  
+  .video-container {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    background-image: url('https://img.youtube.com/vi/IZLp-TZyDkQ/hqdefault.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 64px;
+    height: 64px;
+    background-color: rgba(111, 111, 111, 0.6);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .play-button svg {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .video-title {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    background-color: white;
+    padding: 0.5rem;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+
+  .info-container {
+    display: flex;
+    margin-left: 3rem;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .tabs {
+    display: flex;
+    gap: 4rem;
+    padding-bottom: 0.5rem;
+  }
+  
+  .tab {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #fffbfb;
+    cursor: pointer;
+  }
+  
+  .tab.active {
+    color: #ff6b35;
+    border-radius: 1px;
+    border-bottom: 2px solid #e0e0e0;
+  }
+  
+  .info-list {
+    
+    list-style-type: none;
+    color: rgb(248, 248, 248);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .list-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .info-list svg {
+    width: 24px;
+    height: 24px;
+    color: #4caf50;
+    flex-shrink: 0;
+  }
+  
+  @media (min-width: 768px) {
+    .content {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  

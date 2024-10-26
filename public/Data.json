@@ -1,0 +1,202 @@
+[
+    {
+        "service": "Plumbing",
+        "location": "New York"
+    },
+    {
+        "service": "Electrician",
+        "location": "New York"
+    },
+    {
+        "service": "Cleaning",
+        "location": "New York"
+    },
+    {
+        "service": "Landscaping",
+        "location": "New York"
+    },
+    {
+        "service": "Carpentry",
+        "location": "New York"
+    },
+    {
+        "service": "Plumbing",
+        "location": "Los Angeles"
+    },
+    {
+        "service": "Electrician",
+        "location": "Los Angeles"
+    },
+    {
+        "service": "Cleaning",
+        "location": "Los Angeles"
+    },
+    {
+        "service": "Landscaping",
+        "location": "Los Angeles"
+    },
+    {
+        "service": "Carpentry",
+        "location": "Los Angeles"
+    },
+    {
+        "service": "Plumbing",
+        "location": "Chicago"
+    },
+    {
+        "service": "Electrician",
+        "location": "Chicago"
+    },
+    {
+        "service": "Cleaning",
+        "location": "Chicago"
+    },
+    {
+        "service": "Landscaping",
+        "location": "Chicago"
+    },
+    {
+        "service": "Carpentry",
+        "location": "Chicago"
+    },
+    {
+        "service": "Plumbing",
+        "location": "Houston"
+    },
+    {
+        "service": "Electrician",
+        "location": "Houston"
+    },
+    {
+        "service": "Cleaning",
+        "location": "Houston"
+    },
+    {
+        "service": "Landscaping",
+        "location": "Houston"
+    },
+    {
+        "service": "Carpentry",
+        "location": "Houston"
+    },
+    {
+        "service": "Plumbing",
+        "location": "Phoenix"
+    },
+    {
+        "service": "Electrician",
+        "location": "Phoenix"
+    },
+    {
+        "service": "Cleaning",
+        "location": "Phoenix"
+    },
+    {
+        "service": "Landscaping",
+        "location": "Phoenix"
+    },
+    {
+        "service": "Carpentry",
+        "location": "Phoenix"
+    },
+    {
+        "service": "Plumbing",
+        "location": "San Diego"
+    },
+    {
+        "service": "Electrician",
+        "location": "San Diego"
+    },
+    {
+        "service": "Cleaning",
+        "location": "San Diego"
+    },
+    {
+        "service": "Landscaping",
+        "location": "San Diego"
+    },
+    {
+        "service": "Carpentry",
+        "location": "San Diego"
+    },
+    {
+        "service": "Plumbing",
+        "location": "San Francisco"
+    },
+    {
+        "service": "Electrician",
+        "location": "San Francisco"
+    },
+    {
+        "service": "Cleaning",
+        "location": "San Francisco"
+    },
+    {
+        "service": "Landscaping",
+        "location": "San Francisco"
+    },
+    {
+        "service": "Carpentry",
+        "location": "San Francisco"
+    },
+    {
+        "service": "Plumbing",
+        "location": "Seattle"
+    },
+    {
+        "service": "Electrician",
+        "location": "Seattle"
+    },
+    {
+        "service": "Cleaning",
+        "location": "Seattle"
+    },
+    {
+        "service": "Landscaping",
+        "location": "Seattle"
+    },
+    {
+        "service": "Carpentry",
+        "location": "Seattle"
+    },
+    {
+        "service": "Plumbing",
+        "location": "Dallas"
+    },
+    {
+        "service": "Electrician",
+        "location": "Dallas"
+    },
+    {
+        "service": "Cleaning",
+        "location": "Dallas"
+    },
+    {
+        "service": "Landscaping",
+        "location": "Dallas"
+    },
+    {
+        "service": "Carpentry",
+        "location": "Dallas"
+    },
+    {
+        "service": "Plumbing",
+        "location": "Austin"
+    },
+    {
+        "service": "Electrician",
+        "location": "Austin"
+    },
+    {
+        "service": "Cleaning",
+        "location": "Austin"
+    },
+    {
+        "service": "Landscaping",
+        "location": "Austin"
+    },
+    {
+        "service": "Carpentry",
+        "location": "Austin"
+    }
+]

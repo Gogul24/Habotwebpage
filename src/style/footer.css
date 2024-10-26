@@ -1,0 +1,144 @@
+.footer {
+    background-color: #193557;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+    color: #fff;
+  }
+  
+  .logoF{
+    width: 12rem;
+    height: auto;
+  }
+  .footer-content {
+    border-top:1px solid rgba(255, 255, 255, 0.336);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.336);
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .copyright {
+    font-size: 12px;
+    margin: 0;
+  }
+  
+  .footer-center {
+    display: flex;
+    gap: 60px;
+  }
+  
+  .footer-column h3 {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  .footer-column ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-column li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-column a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .footer-right {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .social-icon {
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+  }
+  
+  .linkedin {
+    background-image: url('/placeholder.svg?height=24&width=24');
+  }
+  
+  .twitter {
+    background-image: url('/placeholder.svg?height=24&width=24');
+  }
+  
+  .facebook {
+    background-image: url('/placeholder.svg?height=24&width=24');
+  }
+  
+  .instagram {
+    background-image: url('/placeholder.svg?height=24&width=24');
+  }
+  
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+
+  .footer-content {
+    display: flex;
+    width: 100%;
+  }
+  
+  .footer-left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .footer-center {
+    flex: 2;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer-right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+  }
+  
+  .social-icon {
+    font-size: 24px; /* Adjust size as needed */
+    color: #fff;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    color: #ff6b35; /* Hover color */
+  }
+  
